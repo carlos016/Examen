@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/carlos016/Examen/badge.svg?branch=master)](https://coveralls.io/github/carlos016/Examen?branch=master)
+
 # Cultivos
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Cultivos`. To experiment with that code, run `bin/console` for an interactive prompt.
