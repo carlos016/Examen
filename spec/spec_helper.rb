@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "Cultivos"
-rquire 'coveralls'
+require 'coveralls'
 Coveralls.wear!
 
 RSpec.configure do |config|

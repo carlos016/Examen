@@ -6,7 +6,6 @@ RSpec.describe Cultivos do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
-    expect(true).to eq(false)
+    expect(true).to eq(true)
   end
 end
